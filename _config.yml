@@ -1,0 +1,28 @@
+name: timfyfe
+favicon: null
+layout_spectrum: 0.9296121669467539
+typography_spectrum: 0.8135724232997745
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5893648990895599
+  lightness: 0.5193327264860272
+  saturation: 0.655326884938404
+  rhythmicContrast: 0.792786140460521
+purpose: []
